@@ -26,3 +26,13 @@ input {
   padding: 9px;
   max-width: 100%;
 }
+
+#pointText {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+#pointBtn {
+  background: #d4edff;
+  border: 1px solid #8abce0;
+}
